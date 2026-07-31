@@ -40,13 +40,6 @@ with new features, and deepen my knowledge of the tools I already work with.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Stentzler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vinicius's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stentzler&layout=compact&langs_count=7&theme=dracula" alt="Vinicius's most used languages">
-</p>
-
 ## Let's connect
 
 The best place to learn more about my professional experience or get in touch
