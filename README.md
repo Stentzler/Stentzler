@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius Stentzler 👋
+# Hi, I'm Vinicius Stentzler
 
 Welcome to my GitHub! I use this space to explore new technologies, experiment
 with new features, and deepen my knowledge of the tools I already work with.
