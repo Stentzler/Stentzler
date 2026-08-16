@@ -4,8 +4,11 @@ Welcome to my GitHub! I use this space to explore new technologies, experiment
 with new features, and deepen my knowledge of the tools I already work with.
 
 <p align="left">
+  <a href="https://www.stentzler.com.br">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_my_website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/vinicius-stentzler/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
   </a>
 </p>
 
@@ -43,5 +46,7 @@ with new features, and deepen my knowledge of the tools I already work with.
 
 ## Let's connect
 
-The best place to learn more about my professional experience or get in touch
-is [LinkedIn](https://www.linkedin.com/in/vinicius-stentzler/).
+You can learn more about my work and projects on my
+[portfolio](https://www.stentzler.com.br), or find more about my professional
+experience and get in touch through
+[LinkedIn](https://www.linkedin.com/in/vinicius-stentzler/).
